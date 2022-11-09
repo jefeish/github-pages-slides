@@ -1,1 +1,1 @@
-<img width="1500px" src="images/documentation.png">
+<img width="2000px" src="images/documentation.png">
