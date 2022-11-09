@@ -1,0 +1,39 @@
+## compliance check configuration
+
+These are customizable compliance checks based on company standards.
+
+```
+
+# Required License Types
+license: 
+  - MIT
+  - ISC
+
+# Required Innersource files
+files:
+  - CODE_OF_CONDUCT.md
+  - CODEOWNERS
+  - CONTRIBUTING.md
+  - README.md
+
+# Branch protection rules
+branch_protection_rules: 
+  allowsDeletions: true
+  allowsForcePushes: false
+  isAdminEnforced: true
+  requiresApprovingReviews: true
+  requiredApprovingReviewCount: 2
+  requiresCodeOwnerReviews: true
+  requiresCommitSignatures: true
+  requiresConversationResolution: true
+  requiresLinearHistory: true
+  requiresStatusChecks: true
+  requiresStrictStatusChecks: true
+  restrictsPushes: true
+  restrictsReviewDismissals: true
+
+# Check on open Dependabot Alerts and verify the threshold
+# Can be: low, medium, high, critical
+dependabot_alert_threshold: high
+
+```

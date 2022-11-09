@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
+        <mxGraphModel dx="3009" dy="2724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="brf7tR4pHE1us93a3u3g-6" value="&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 24px;&quot;&gt;Compliance&lt;br style=&quot;font-size: 24px;&quot;&gt;Warnings&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="434.95" y="-587.27" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;fillColor=#10739E;strokeColor=none;startAngle=0.625;endAngle=0.8761449798372287;arcWidth=0.4;rotation=135;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="207.62" y="-474.6" width="393.38" height="382.74" as="geometry"/>
+                </mxCell>
+                <mxCell id="brf7tR4pHE1us93a3u3g-4" value="Repo is Compliant" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=24;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="666.75" y="-478.18000000000006" width="300" height="78.58" as="geometry"/>
+                </mxCell>
+                <mxCell id="brf7tR4pHE1us93a3u3g-12" value="Add to &lt;i style=&quot;font-size: 24px;&quot;&gt;InnerSource&lt;/i&gt;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=24;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="966.75" y="-478.18000000000006" width="330" height="78.58" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;JSON&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#E6E6E6;strokeColor=#333333;fillColor=#B3B3B3;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="1340" y="-519.6" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;font color=&quot;#e6e6e6&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-family: helvetica; font-size: 24px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Innersource&lt;/span&gt;&lt;br style=&quot;font-family: helvetica; font-size: 24px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;font-family: helvetica; font-size: 24px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Ready Report&lt;/span&gt;&lt;br style=&quot;font-family: helvetica; font-size: 24px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;font-family: helvetica; font-size: 24px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;...&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#99FFFF;strokeColor=#333333;fillColor=#4D4D4D;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="1340" y="-459.6" width="200" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="brf7tR4pHE1us93a3u3g-8" value="" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=24;fontStyle=1;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="304" y="-599.6" width="70" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="brf7tR4pHE1us93a3u3g-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;fillColor=#10739E;strokeColor=none;startAngle=0.36994915843207826;endAngle=0.125;arcWidth=0.44;rotation=135;" parent="1" vertex="1">
+                    <mxGeometry x="301.58" y="-760" width="356.75" height="365.46" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;font color=&quot;#e6e6e6&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-family: helvetica; font-size: 24px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Innersource&lt;/span&gt;&lt;br style=&quot;font-family: helvetica; font-size: 24px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;font-family: helvetica; font-size: 24px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Ready Report&lt;/span&gt;&lt;br style=&quot;font-family: helvetica; font-size: 24px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;font-family: helvetica; font-size: 24px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;...&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#99FFFF;strokeColor=#333333;fillColor=#4D4D4D;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="458.33" y="-159.60000000000002" width="200" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=24;fontStyle=1;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="539.83" y="-309.6" width="39" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;Repository Issue&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#E6E6E6;strokeColor=#333333;fillColor=#B3B3B3;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="458.3286437626905" y="-219.60135623730946" width="200" height="61" as="geometry"/>
+                </mxCell>
+                <mxCell id="brf7tR4pHE1us93a3u3g-5" value="Add&amp;nbsp;&lt;i style=&quot;font-size: 24px;&quot;&gt;InnerSource&amp;nbsp;&lt;/i&gt;Topic" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=24;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="-478.18000000000006" width="319" height="78.58" as="geometry"/>
+                </mxCell>
+                <mxCell id="brf7tR4pHE1us93a3u3g-3" value="Evaluate Repository" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=24;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="379" y="-478.18000000000006" width="287.75" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="brf7tR4pHE1us93a3u3g-15" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;/check&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="434.95" y="-729.6" width="87.75" height="42" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

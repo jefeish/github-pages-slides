@@ -7,37 +7,45 @@
 
 	<title>Slide-Show</title>
 
-	<link rel="stylesheet" href="dist/reset.css">
-	<link rel="stylesheet" href="dist/reveal.css">
-	<link rel="stylesheet" href="dist/theme/black.css">
+	<link rel="stylesheet" href="reveal/dist/reset.css">
+	<link rel="stylesheet" href="reveal/dist/reveal.css">
+	<link rel="stylesheet" href="reveal/dist/theme/black.css">
 
 	<!-- Theme used for syntax highlighted code -->
-	<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	<link rel="stylesheet" href="reveal/plugin/highlight/monokai.css">
 </head>
 
 <body>
+
 	<div class="reveal">
 		<div class="slides">
-			<section>Slide 1</section>
-			<section>Slide 2</section>
+			<section data-background="images/github-bg-2.png" data-background-repeat="repeat" data-markdown="slides/intro.md">Slide 1</section>
+			<section data-background="images/droidtocat_wallpaper.png" data-background-repeat="repeat" data-markdown="slides/intro2.md">Slide 1</section>
+			<section data-background="images/github-background-white-cat3.png" data-background-repeat="repeat" data-markdown="slides/overview.md">Slide 2</section>
 			<section>
-				<section data-markdown="slides/1-example.md">Slide 3</section>
-				<section data-markdown="slides/2-example.md">Slide 4</section>
+				<section data-background="images/github-background-white-cat3.png" data-background-repeat="repeat" data-markdown="slides/evaluation-process.md">Slide 3</section>
+				<section data-background="images/gh-bg3-dark.png" data-background-repeat="repeat" data-markdown="slides/report-sample.md">Slide 4</section>
+				<section data-background="images/gh-bg3-dark.png" data-background-repeat="repeat" data-markdown="slides/compliance-config.md">Slide 5</section>
 			</section>
-			<section data-markdown="slides/3-example.md">Slide 5</section>
+			<section data-background="images/github-background-white-cat3.png" data-background-repeat="repeat" data-markdown="slides/text-picture-columns.html">Slide 6</section>
+			<section data-background="images/github-background-white-cat3.png" data-background-repeat="repeat" data-markdown="slides/three-columns.html">Slide 7</section>
+			<section data-background="images/github-background-white-cat3.png" data-background-repeat="repeat" data-markdown="slides/col-picture.html">Slide 9</section>
+			<section data-background="images/github-background-white-cat3.png" data-background-repeat="repeat" data-markdown="slides/two-columns.html">Slide 10</section>
+			<section data-background="images/github-background-black-cat.png" data-background-repeat="repeat"><h1 style="color: rgb(94, 137, 248);">THE END</h1></section>
 		</div>
 	</div>
-
-	<script src="dist/reveal.js"></script>
-	<script src="plugin/notes/notes.js"></script>
-	<script src="plugin/markdown/markdown.js"></script>
-	<script src="plugin/highlight/highlight.js"></script>
+	
+	<script src="reveal/dist/reveal.js"></script>
+	<script src="reveal/plugin/notes/notes.js"></script>
+	<script src="reveal/plugin/markdown/markdown.js"></script>
+	<script src="reveal/plugin/highlight/highlight.js"></script>
 	<script>
 		// More info about initialization & config:
 		// - https://revealjs.com/initialization/
 		// - https://revealjs.com/config/
 		Reveal.initialize({
 			hash: true,
+			slideNumber: 'c/t',
 
 			// Learn about plugins: https://revealjs.com/plugins/
 			plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
