@@ -1,1 +1,1 @@
-![docs](images/documentation.png)
+<img width="500px" src="images/documentation.png">
