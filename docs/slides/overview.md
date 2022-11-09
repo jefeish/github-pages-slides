@@ -2,8 +2,4 @@
 
 <br>
 
-What we are trying to do ?
-
-Demonstrate how to apply features of the GitHub platform to Innersource.
-
-![overview](images/process.png)
+<img height="800px" src="images/areas-of-automation.png">
