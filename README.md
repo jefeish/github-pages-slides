@@ -14,12 +14,12 @@ npm start
 
 http://localhost:8000/
 
-## Content Description
+## Content Description (Pages are served from `docs`)
 
 |Files/Folders|Description|
 |---|---|
-|images/|Documentation images + source (drawio)|
-|reveal/|[reveal js](https://revealjs.com) code to build GitHub pages|
-|slides/|Source Markdown + HTML slide files, This is the content of the presentation| 
-|index.html|Reveal JS start page|
-|.nojekyll| disable Jekyll for GitHub pages|
+|docs/images/|Documentation images + source (drawio)|
+|docs/reveal/|[reveal js](https://revealjs.com) code to build GitHub pages|
+|docs/slides/|Source Markdown + HTML slide files, This is the content of the presentation| 
+|docs/index.html|Reveal JS start page|
+|docs/.nojekyll| disable Jekyll for GitHub pages|
