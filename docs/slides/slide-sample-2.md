@@ -6,10 +6,3 @@ let b = 2;
 let c = x => 1 + 2 + x;
 c(3);
 ```
-
-- AAA
-- BBB
-- CCC
-
-- [ ] A
-- [ ] B

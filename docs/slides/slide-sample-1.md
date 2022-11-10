@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-
-<body>
 
 ## Sample Slide 1
 <br>
@@ -22,6 +15,3 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Check out more ...
 <span style='font-size:50px;'>&#128071;</span>
 
-</body>
-
-</html>
