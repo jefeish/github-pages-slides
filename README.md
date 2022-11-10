@@ -23,3 +23,9 @@ http://localhost:8000/
 |docs/slides/|Source Markdown + HTML slide files, This is the content of the presentation| 
 |docs/index.html|Reveal JS start page|
 |docs/.nojekyll| disable Jekyll for GitHub pages|
+
+---
+
+### GitHub Pages Setup Info
+
+<img width="678" alt="pages-setup" src="https://user-images.githubusercontent.com/863198/200977116-2b72f1cb-7499-452e-aa9b-3ca6f934df9f.png">
