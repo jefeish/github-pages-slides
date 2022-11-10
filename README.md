@@ -4,7 +4,7 @@
 
 ## Demo: [GitHub Pages](https://jefeish.github.io/github-pages-slides/)
 
-## Run Development Mode
+## Run Development Mode (local)
 
 ```bash
 cd docs/
