@@ -14,7 +14,7 @@ npm start
 
 http://localhost:8000/
 
-## Content Description (Pages are served from `docs`)
+## Content Description (Pages are served from `docs/`)
 
 |Files/Folders|Description|
 |---|---|
