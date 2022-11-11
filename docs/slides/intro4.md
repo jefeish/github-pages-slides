@@ -1,5 +1,4 @@
 <br><br><br>
-
 <img width="240px" src="images/octo-white.png">
 
 # GitHub Applied ...

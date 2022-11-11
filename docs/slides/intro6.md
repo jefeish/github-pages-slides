@@ -1,6 +1,6 @@
 
 <div style="font-size: 36px; text-align: justify; width: 100%; margin: 0% 70% 0% 0%;">
-<img width="240px" src="images/octo-white.png">
+<img width="120px" src="images/octo-white.png">
 <br><br>
 <h1> GitHub Applied ...</h1>
 <h2> A Field Study</h2>
