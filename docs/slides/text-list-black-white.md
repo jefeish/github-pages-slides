@@ -10,7 +10,7 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 </div>  
-<div style="text-align: left; color: black; font-size: 36px; float: left; width: 43%; padding: 10px 50px 10px 100px;">
+<div style="text-align: left; color: black; font-size: 36px; float: left; width: 43%; padding: 10px 50px 10px 50px;">
 
 <h3 style="color: black;">The List</h3>
 

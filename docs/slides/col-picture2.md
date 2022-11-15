@@ -7,6 +7,6 @@ magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 consequat.
 </div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 60%; padding: 0px 50px 0px 50px;">
-<img src="images/backgrounds/github-background-rainbow.png">
+<img src="images/areas-of-automation.png">
 </div>
 </div>

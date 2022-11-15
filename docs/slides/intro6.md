@@ -6,7 +6,6 @@
 <h2> A Field Study</h2>
 </div>
 <br><br><br><br><br><br>
-
 <div style="display: flex; align-items: center; justify-content: center; margin: 0% 70% 0% 0%;">
 
 <div><img src="images/jefeish.png" /></div>

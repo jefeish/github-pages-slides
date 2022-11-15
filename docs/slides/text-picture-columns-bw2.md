@@ -1,7 +1,7 @@
 <div>
-<div style="text-align: left; font-size: 36px; text-align: justify; float: left; width: 44%; padding: 10px 50px 10px 50px;">
+<div style="text-align: left; color: black; font-size: 36px; text-align: justify; float: left; width: 44%; padding: 10px 50px 10px 50px;">
 
-<h2>The Text</h2>
+<h2 style="color: black;">The Text</h2>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
